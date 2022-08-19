@@ -1,2 +1,2 @@
-# Normal-nextcord-Bot
-Code Of Normal nextcord bot
+# Basic Discord Bot Made With Nextcord
+Code Of Simple nextcord bot
